@@ -21,7 +21,7 @@ The code requires the following input files, which are available [to authorised 
 |*data/processed/edgesMelbourne.gpkg* & *data/processed/nodesMelbourne.gpkg* |Edges and nodes making up the road network |
 
 # Output files
-The code produces the following output files, which are saved to the `data\processed` directory.
+The code produces the following output files, which are saved to the `data/processed` directory.
 
 | File               | Content                                                  |
 |--------------------|----------------------------------------------------------|
